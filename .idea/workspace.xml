@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b17f5380-3b0e-4603-834b-e1fe09855270" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Inheritance/Exceptions/CheckedExceptionExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/CheckedExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Inheritance/Collections/CollectionsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/CollectionsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,17 +29,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ObjectTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Object/ObjectTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/Exceptions/ExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/Exceptions/CheckedExceptionExample.java" />
         <option value="$PROJECT_DIR$/src/Object/ObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/Collections/CollectionsExample.java" />
       </list>
     </option>
   </component>
@@ -86,8 +76,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="499" />
-    <option name="y" value="239" />
+    <option name="x" value="589" />
+    <option name="y" value="129" />
     <option name="width" value="1781" />
     <option name="height" value="1041" />
   </component>
@@ -99,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,8 +105,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,7 +116,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectTest">
+  <component name="RunManager" selected="Application.CollectionsExample">
     <configuration name="CheckedExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -150,6 +140,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CollectionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Collections.CollectionsExample" />
+      <module name="Inheritance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +192,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Object.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PolymorphismExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="10" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="polymorphism.PolymorphismExample" />
-      <module name="Inheritance" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,19 +241,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PolymorphismExample" />
       <item itemvalue="Application.DowncastingExample" />
       <item itemvalue="Application.ExceptionTest" />
       <item itemvalue="Application.CheckedExceptionExample" />
       <item itemvalue="Application.ObjectTest" />
+      <item itemvalue="Application.CollectionsExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsExample" />
         <item itemvalue="Application.ObjectTest" />
         <item itemvalue="Application.ExceptionTest" />
         <item itemvalue="Application.CheckedExceptionExample" />
         <item itemvalue="Application.DowncastingExample" />
-        <item itemvalue="Application.PolymorphismExample" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +278,13 @@
       <workItem from="1525793677852" duration="5489000" />
       <workItem from="1525801745809" duration="2406000" />
       <workItem from="1525807552189" duration="716000" />
-      <workItem from="1525808290836" duration="138000" />
+      <workItem from="1525808290836" duration="3248000" />
+      <workItem from="1525816696400" duration="547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24102000" />
+    <option name="totallyTimeSpent" value="27759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -305,8 +296,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="499" y="239" width="1781" height="1041" extended-state="0" />
-    <editor active="true" />
+    <frame x="589" y="129" width="1781" height="1041" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997763" />
@@ -317,11 +307,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3294596" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32997763" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29711753" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29650506" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32997763" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" x="1206" y="294" width="377" height="917" id="Project" order="0" visible="true" weight="0.22848837" />
+      <window_info active="true" content_ui="combo" x="1206" y="294" width="377" height="917" id="Project" order="0" visible="true" weight="0.23139535" />
       <window_info anchor="right" id="Database" order="6" weight="0.3294596" />
       <window_info id="Learn" order="6" weight="0.3294596" />
       <window_info anchor="right" id="SciView" order="10" weight="0.3294596" />
@@ -334,11 +324,11 @@
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32885906" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="395" height="832" id="Documentation" order="0" side_tool="true" weight="0.3294596" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
@@ -385,6 +375,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Object/ObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/CollectionsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Object/ObjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -611,10 +615,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Object/ObjectTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Collections/CollectionsExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object/ObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
