@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17f5380-3b0e-4603-834b-e1fe09855270" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GenericsDemo/KVPTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inheritance/GenericsDemo/FancyBoxTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance/GenericsDemo/FancyBoxTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java" afterDir="false" />
-    </list>
+    <list default="true" id="b17f5380-3b0e-4603-834b-e1fe09855270" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -351,12 +346,12 @@
       <workItem from="1525808290836" duration="3248000" />
       <workItem from="1525816696400" duration="649000" />
       <workItem from="1525817494587" duration="1146000" />
-      <workItem from="1525822886229" duration="1897000" />
+      <workItem from="1525822886229" duration="2528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30904000" />
+    <option name="totallyTimeSpent" value="31535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,7 +364,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="552" y="268" width="1781" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997763" />
@@ -381,7 +375,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3294596" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32997763" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29617116" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29571107" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32997763" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
