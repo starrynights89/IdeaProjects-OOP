@@ -9,5 +9,11 @@ public class FancyBoxTester {
         myBox.put("This string is in my FancyBox!");
 
         System.out.println(myBox.get());
+
+        FancyBox<Integer> newBox = new FancyBox<>();
+
+        newBox.put(1);
+
+        System.out.println(newBox.get());
     }
 }

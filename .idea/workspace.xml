@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b17f5380-3b0e-4603-834b-e1fe09855270" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericsDemo/KVPTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenericsDemo/FancyBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericsDemo/FancyBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inheritance/GenericsDemo/FancyBoxTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance/GenericsDemo/FancyBoxTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +31,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FancyBox.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FancyBox.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GenericsDemo/FancyBox.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
@@ -48,8 +49,41 @@
       <file leaf-file-name="FancyBoxTester.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyValuePair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GenericsDemo/KeyValuePair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+              <folding>
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KVPUtilites.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GenericsDemo/KVPUtilites.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KVPTester.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GenericsDemo/KVPTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="84" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -79,8 +113,11 @@
         <option value="$PROJECT_DIR$/src/Exceptions/CheckedExceptionExample.java" />
         <option value="$PROJECT_DIR$/src/Object/ObjectTest.java" />
         <option value="$PROJECT_DIR$/src/Collections/CollectionsExample.java" />
-        <option value="$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java" />
         <option value="$PROJECT_DIR$/src/GenericsDemo/FancyBox.java" />
+        <option value="$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java" />
+        <option value="$PROJECT_DIR$/src/GenericsDemo/KeyValuePair.java" />
+        <option value="$PROJECT_DIR$/src/GenericsDemo/KVPUtilites.java" />
+        <option value="$PROJECT_DIR$/src/GenericsDemo/KVPTester.java" />
       </list>
     </option>
   </component>
@@ -103,10 +140,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="672" />
-    <option name="y" value="334" />
+    <option name="x" value="552" />
+    <option name="y" value="268" />
     <option name="width" value="1781" />
-    <option name="height" value="1042" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -149,7 +186,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,20 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FancyBoxTester">
-    <configuration name="CheckedExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="10" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Exceptions.CheckedExceptionExample" />
-      <module name="Inheritance" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.KVPTester">
     <configuration name="CollectionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -207,6 +231,19 @@
       <option name="ALTERNATIVE_JRE_PATH" value="10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="GenericsDemo.FancyBoxTester" />
+      <module name="Inheritance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GenericsDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="KVPTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GenericsDemo.KVPTester" />
       <module name="Inheritance" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
@@ -275,18 +312,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ExceptionTest" />
-      <item itemvalue="Application.CheckedExceptionExample" />
       <item itemvalue="Application.ObjectTest" />
       <item itemvalue="Application.CollectionsExample" />
       <item itemvalue="Application.FancyBoxTester" />
+      <item itemvalue="Application.KVPTester" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KVPTester" />
         <item itemvalue="Application.FancyBoxTester" />
         <item itemvalue="Application.CollectionsExample" />
         <item itemvalue="Application.ObjectTest" />
         <item itemvalue="Application.ExceptionTest" />
-        <item itemvalue="Application.CheckedExceptionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -314,12 +351,12 @@
       <workItem from="1525808290836" duration="3248000" />
       <workItem from="1525816696400" duration="649000" />
       <workItem from="1525817494587" duration="1146000" />
-      <workItem from="1525822886229" duration="308000" />
+      <workItem from="1525822886229" duration="1897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29315000" />
+    <option name="totallyTimeSpent" value="30904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,12 +368,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="672" y="334" width="1781" height="1042" extended-state="0" />
+    <frame x="552" y="268" width="1781" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997763" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.32845894" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32845894" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -344,11 +381,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3294596" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32997763" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29650506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29617116" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32997763" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" x="1206" y="294" width="377" height="917" id="Project" order="0" visible="true" weight="0.2372093" />
+      <window_info active="true" content_ui="combo" x="1206" y="294" width="377" height="917" id="Project" order="0" visible="true" weight="0.2372093" />
       <window_info anchor="right" id="Database" order="6" weight="0.3294596" />
       <window_info id="Learn" order="6" weight="0.3294596" />
       <window_info anchor="right" id="SciView" order="10" weight="0.3294596" />
@@ -698,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GenericsDemo/FancyBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -715,6 +745,40 @@
             <element signature="e#206#207#0" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericsDemo/FancyBoxTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericsDemo/KeyValuePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericsDemo/KVPUtilites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericsDemo/KVPTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="84" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="84" />
         </state>
       </provider>
     </entry>
